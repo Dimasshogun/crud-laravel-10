@@ -1,0 +1,8 @@
+- D:
+- D:\Applikasi Terinstall\xampp\htdocs\nowfolder
+- composer
+- composer create-project --prefer-dist laravel/laravel:^10.0 crud-laravel-10
+- cd crud-laravel-10
+- php artisan serve
+- code .
+- php artisan storage:link
