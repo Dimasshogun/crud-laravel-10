@@ -6,3 +6,5 @@
 - php artisan serve
 - code .
 - php artisan storage:link
+
+LINK BELAJAR : https://santrikoding.com/tutorial-laravel-10-1-fitur-baru-di-laravel-10
